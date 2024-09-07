@@ -1,0 +1,15 @@
+artifact_uri: file:///media/mohamedali/AI/ML_Ops/Projects/Iris/mlruns/0/cfdf7e27d34f43a3b63f2aa6bde16107/artifacts
+end_time: 1725709488668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfdf7e27d34f43a3b63f2aa6bde16107
+run_name: secretive-vole-11
+run_uuid: cfdf7e27d34f43a3b63f2aa6bde16107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725709485545
+status: 3
+tags: []
+user_id: mohamedali

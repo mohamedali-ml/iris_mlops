@@ -1,0 +1,15 @@
+artifact_uri: file:///media/mohamedali/AI/ML_Ops/Projects/Iris/mlruns/0/495712389258433ca28424a863fa2aac/artifacts
+end_time: 1725712622795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 495712389258433ca28424a863fa2aac
+run_name: calm-deer-868
+run_uuid: 495712389258433ca28424a863fa2aac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725712619855
+status: 3
+tags: []
+user_id: mohamedali
